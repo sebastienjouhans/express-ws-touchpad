@@ -1,0 +1,9 @@
+{
+  "name": "express-ws-touchpad",
+  "description": "express-ws touchpad example",
+  "keywords": [
+    "express",
+    "express-ws"
+  ],
+  "repository": "https://github.com/y-temp4/express-ws-chat-sample"
+}
